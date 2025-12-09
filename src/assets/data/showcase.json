@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "Budget for Civilian",
+    "type": "OPEN Budget",
+    "idea": "Budget for Civilian - การสรุปรายรับ-รายจ่ายของแต่ละกระทรวง/หน่วยงานโดย AI เพื่อให้ประชาชนสามารถ tracking/ตรวจสอบได้ และเพิ่มการมีส่วนร่วมของประชาชนและให้ประชาชนอยากที่จะเข้ามาตรวจสอบโดยการสร้างแรงจูงใจให้ประชาชนเห็นถึงความสำคัญของการใช้งบประมาณ"
+  },
+  {
+    "id": 2,
+    "name": "LegiClear",
+    "type": "OPEN Legislative",
+    "idea": "LegiClear - ระบบ AI ให้คะแนนร่างกฏหมายว่ามีคำกำกวม บังคับใช้ยาก หรือมีความซับซ้อนยุ่งเกี่ยวกับกฏหมายอื่นมากน้อยแค่ไหน"
+  },
+  {
+    "id": 3,
+    "name": "ไทยทำไทยใช้ไทยเจริญ (พลังเยาวชน)",
+    "type": "OPEN Budget",
+    "idea": "ทำ visualization ของงบประมาณ เพื่อดูว่าประชากรในแต่ละที่ได้งบเท่ากันไหม"
+  },
+  {
+    "id": 4,
+    "name": "P3V",
+    "type": "OPEN Legislative",
+    "idea": "Bring everything in legislation and policy making to the public with LLM, new methods in cryptography and algorithms by digitalizing voting.",
+    "demo": "https://p3v.virie.net"
+  },
+  {
+    "id": 5,
+    "name": "ต่อมา ต่อยอด และต่อไป",
+    "type": "OPEN Budget",
+    "idea": "ให้ประชนมีส่วนร่วมในการสอดส่องการแบ่งงบประมาณที่ผิดปกติ",
+    "demo": "https://drive.google.com/drive/folders/1ny_oHwPMHsNE9YbEtc4ED1O95LQGj95C?usp=sharing"
+  },
+  {
+    "id": 6,
+    "name": "ลอว์Track",
+    "type": "OPEN Legislative",
+    "idea": "เว็บแอปสำหรับ Track ร่างกฎหมายที่เสนอเข้าสภาทั้งหมด ว่าอยู่ในขั้นตอนใด นำรายงานการประชุมมาเผยเเพร่เผยแพร่ การลงมติของสส.และ เปิดรับความเห็นประชาชนต่อร่างกฎหมายในแต่ละวาระ",
+    "demo": "https://drive.google.com/file/d/1sEW5zcjVGmiulNMqRoUQy4DzpwemkubI/view\n"
+  },
+  {
+    "id": 7,
+    "name": "โชคช่วยชาติ",
+    "type": "OPEN Procurement",
+    "idea": "Procurement tracking - หาแนวโน้มหรือความสัมพันธ์ของผู้ที่ประมูล ซึ่งสามารถบอกความน่าจะเป็นที่จะเกิดการทุจริต"
+  },
+  {
+    "id": 8,
+    "name": "เห็นชอบ",
+    "type": "OPEN Legislative",
+    "idea": "มีหลายครั้งที่การพิจารณาร่างกฎหมาย พรบ. อยู่ในความสนใจของประชาชนจำนวนมาก แต่ก็มีบางส่วนที่ต้องการจะรู้ข้อมูลเพิ่มเติมด้านนี้ แต่ก็ไม่เข้าใจในภาษากฎหมายมากพอ เลยเป็นจุดประเด็นที่มาทำ project นี้ โดยใช้ dataset ตัวกฎหมาย มาทำการ summarization เป็น Tone ที่เข้าใจง่าย",
+    "demo": "https://www.figma.com/design/tm7J4nAoUbQUcBvA86zvuj/%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%8A%E0%B8%AD%E0%B8%9A?node-id=0-1&t=gaEBIhBnbvhdaMxy-1"
+  },
+  {
+    "id": 9,
+    "name": "จับจ่าย",
+    "type": "OPEN Procurement",
+    "idea": "ระบบตรวจสอบการใช้งบประมาณโดยใช้ chatbot และรูปถ่าย",
+    "demo": "https://www.canva.com/design/DAGNDzH1g1M/pXG4lelzPOHalZhSW-hZBw/edit?utm_content=DAGNDzH1g1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+  },
+  {
+    "id": 10,
+    "name": "JANKTHAI",
+    "type": "OPEN Procurement",
+    "idea": "ป้องกันการ lockspec ของการจัดซื้อจัดจ้าง , ทำให้ข้อมูลการจัดซื้อจัดจ้างโปรงใส่เข้าถึงได้ง่าย , ทำให้บริษัทไทยคนไทยมีส่วนร่วมในการจัดซื้อจัดจ้าง"
+  },
+  {
+    "id": 11,
+    "name": "งบอยู่ไหน",
+    "type": "OPEN Budget"
+  },
+  {
+    "id": 12,
+    "name": "AuctIon",
+    "type": "OPEN Procurement",
+    "idea": "เราอยากนำข้อมูลการประมูลที่ถูกเปิดเผย ในเว้บไซค์ ระบบการจัดซื้อจัดจ้างภาครัฐด้วยอิเล็กโทรนิค ออกมา และนำAI มาวิเคราะ เปรียบเทียบราคาสินค้า เมื่อเกิด red flag เราจะแจ้งให้ประชาชนรับทราบผ่านเว็บไซต์ของเรา เพื่อให้ประชาชนตรวจสอบและสามารถยื่นคำร้องไปหาหน่วยงานต่างๆได้ค่ะ",
+    "demo": "https://www.figma.com/proto/NsnhLMwWyqeOhewiwmjIhc/AuctIon?node-id=41-2537&t=mrurXT1FlKYoM3iW-1&scaling=contain&content-scaling=fixed&page-id=41%3A2536"
+  },
+  {
+    "id": 13,
+    "name": "ProcureScan",
+    "type": "OPEN Procurement",
+    "idea": "ProcureScan - การนำข้อมูลจัดซื้อจัดจ้างของหน่วยงานรัฐ มาทำ Data Visualization เพื่อดูว่าบริษัทที่ประมูลงาน ประมูลไปแล้วกี่งาน, ได้รับเงินจากรัฐไปเท่าไหร่ โดยแยกเป็นประเภทของงานออกมาได้ เพื่อให้ง่ายต่อการดูข้อมูล และตรวจสอบ",
+    "demo": "https://public.flourish.studio/story/2506251/"
+  },
+  {
+    "id": 14,
+    "name": "Budget for Cafeine",
+    "type": "OPEN Budget",
+    "idea": "งบประมาณแบบง่ายๆ คล้ายๆ เบนโตะ เป็นการนำเสนอข้อมูลงบประมาณให้ประชาชนเข้าใจได้ง่ายขึ้น"
+  },
+  {
+    "id": 15,
+    "name": "Boeing 777",
+    "type": "OPEN Procurement",
+    "idea": "Web Application ที่นํา LLM มาสรุปญัติที่ถูกเสนอมาในรัฐสภาเเละทํา RAG มาอตอบสื่งที่ User สงสัย"
+  },
+  {
+    "id": 16,
+    "name": "Parliament GenZ",
+    "type": "OPEN Parliament Performance",
+    "idea": "Ai measure KPI and ratings"
+  },
+  {
+    "id": 17,
+    "name": "Parliament Dashboard",
+    "type": "OPEN Parliament Performance",
+    "idea": "Parliament Dashboard เว็บศูนย์รวมข้อมูลการทำงานของสส. และ สว. ครบวงจร เพื่อให้ประชาชนเข้าถึงข้อมูลได้ง่าย รวดเร็ว ทั่วถึง และพลักดันให้เกิดการมีส่วนร่วมระหว่างประชาชนและรัฐบาล"
+  },
+  {
+    "id": 18,
+    "name": "เรามาโหด",
+    "type": "OPEN Parliament Performance",
+    "idea": "สส. AI รับคำร้องเรียนจากประชาชนและวิเคราะห์ปัญหาและเสนอบน dashboard ให้กับสภา และรายงานการประชุมสภาให้กับประชาชน"
+  },
+  {
+    "id": 19,
+    "name": "HHH",
+    "type": "OPEN Budget"
+  },
+  {
+    "id": 20,
+    "name": "connext",
+    "type": "OPEN Parliament Performance",
+    "idea": "concept \"OpenParliament Data Aggregator\" คือการที่ เราอยากทำให้ภาคประชาชนได้สามารถเข้าถึงการงานของฝ่ายรัฐบาล เเละสามารถทราบข้อมูลได้อย่างครบถ้วนถูกต้อง นอกจากนี้ เราอยากที่จะเสนอความสนใจที่จะทำ one click website ที่รวม website กลางเป็นหลัก เพื่อความสะดวก"
+  },
+  {
+    "id": 21,
+    "name": "แก๊งค์ปากสั่น",
+    "type": "OPEN Parliament Performance",
+    "idea": "ใช้ AI ดูแลระบบสมาชิก และรับประเมินสมาชิก"
+  },
+  {
+    "id": 22,
+    "name": "คิดหัวข้อวินาทีสุดท้าย",
+    "type": "OPEN Budget",
+    "idea": "AI for budget review and tracking - ใช้ AI วิเคราะห์เปรียบเทียบแนวโน้มงบในแต่ละปี และใช้โปรแกรมติดตามผลว่าจริงหรือไม่ พร้อมประชาชนช่วยตรวจสอบว่าจริงๆไหม"
+  },
+  {
+    "id": 23,
+    "name": "OPEN Government",
+    "type": "OPEN Procurement",
+    "idea": "เราจะสนับสนุนการเข้าถึงการจ้างงานสำหรับธุรกิจในประเทศ ให้ง่ายทั้งแก่รัฐบาลและกลุ่มธุรกิจ มี AI วิเคราะห์ความถนัดความเกี่ยวข้องของธุกิจนั้นต่อหัวข้องานเพื่อสนับสนุนการจ้างงานดึงข้อมูลจาก Depa เปิดเผยผลและมีระบบลงทะเบียนที่ดี เพื่อให้ภาคประชาชนสามารถรับรู้และวางแผนได้รับประโยชน์สูงสุดจากข้อมูล เพื่อประโยชน์ของประเทศและประชาชาชนทุกกลุ่ม ขยายขีดความสามารถแข่งขันของประเทศ และสนับสนุนระบบเศรษฐกิจในประเทศ",
+    "demo": "https://gi331.wordpress.com/"
+  },
+  {
+    "id": 24,
+    "name": "LP",
+    "type": "OPEN Legislative",
+    "idea": "Personalized ข่าวสารเกี่ยวกับข้อกฏหมายให้ตรงความสนใจของประชาชนแต่ละคนด้วย generative AI"
+  },
+  {
+    "id": 25,
+    "name": "I Hear Your Voice",
+    "type": "OPEN Parliament Performance",
+    "idea": "People sentiment analysis - เพราะเสียงของทุกคนมีความหมาย เราเลยอยากทำแพลตฟอร์มที่ใช้ในการรับ feedback จากประชาชนอย่าง real time เพื่อ quantify ให้เห็นว่าประชาชนรู้สึกอย่างไรต่อประเด็นอภิปลายต่างๆ หรือโครงการต่างๆ"
+  },
+  {
+    "id": 26,
+    "name": "EMO TEAM",
+    "type": "OPEN Budget",
+    "idea": "สร้าง platform ที่ทุกคนสามารถเข้าถึงด้วย concept 1.clean 2.maintain 3.protect ขับเคลื่อนด้วย Machine Learning, Deep Learning และ Generative AI ใช้ AI ในรูปแบบ Multi-Agent วิเคราะห์งบประมาณ ติดตามโครงการเป็นงวด ๆ โดยผลสรุปจะถูกเก็บไว้เป็นข้อมูลใน database",
+    "demo": "https://drive.google.com/file/d/1OHLb48Hzo7-cMKZuF2oXHuK-sAVAx1EZ/view?usp=sharing"
+  },
+  {
+    "id": 27,
+    "name": "chapz",
+    "type": "OPEN Parliament Performance",
+    "idea": "ระบบ Tracking progress สถานะเรื่องที่ต้องเข้าสู่กระบวนการออก/แก้ไข กฎหมาย"
+  },
+  {
+    "id": 28,
+    "name": "lana banana",
+    "type": "OPEN Budget"
+  },
+  {
+    "id": 29,
+    "name": "งบทั่วถึง",
+    "type": "OPEN Budget",
+    "idea": "งบทั่วถึง - กระจายงบประมาณทั่วถึงทุกท้องถิ่น ให้มั่นใจว่า จะไม่มีเทศบาล อบต. ใดใด ถูกละเลย",
+    "demo": "https://landometer.com/citymeter/budget"
+  },
+  {
+    "id": 30,
+    "name": "สกลชื่อคนไม่ใช่จังหวัด",
+    "type": "OPEN Parliament Performance",
+    "idea": "Data Menagement ในห้องกรรมาธิการ เพื่อจัดสรรวาระการประชุม และบันทึกรายงายการประชุม ในระบบ AI เพื่อป้องกันเนื้อหาที่ซับซ้อนประเด็นซ้ำกัน ประเด็นไม่สอดคล้อง ในฝั่งประชุมทั้งสส.และสว. -ต่อมาในเรื่องของบันทึกการเข้าร่วมการประชุมของสมาชิก เพื่อป้องกันสมาชิก โดดประชุม -วาระการประชุแบบห้องประชุมใหญ่ หรือห้องสุริยันต์",
+    "demo": "https://www.canva.com/design/DAGM_IAYRFI/zRkYoIe_Aad2iBo-6ucZeQ/edit?utm_content=DAGM_IAYRFI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+  },
+  {
+    "id": 31,
+    "name": "Budget for All",
+    "type": "OPEN Budget",
+    "idea": "การนำปัญญาประดิษฐ์มาประยุคใช้ในกระบวนการงบประมาณแผ่นดิน โดยสามารถช่วยจัดทำงบประมาณแผ่นดินให้มีประสิทธิภาพ รวมไปถึงยังเปิดโอกาสให้ประชาชนมีส่วนร่วมในพัฒนาและบริหาร",
+    "demo": "https://www.canva.com/design/DAGNFt7VzqM/bFTG_sT8iSZJs-atptpFRA/view?utm_content=DAGNFt7VzqM&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+  },
+  {
+    "id": 32,
+    "name": "ONE LEGISLATIVE",
+    "type": "OPEN Legislative",
+    "idea": "พัฒนาแอป/เว็บ ติดตามร่างกฎหมาย การติดตามการประชุมกรรมาธิการ และการค้นหาข้อมูลทางกฎหมายที่รวบรวมกฎหมายที่ใช้บังคับอยู่หรือสิ้นสภาพแล้ว รวมทั้งกฎหมายลูกต่างๆ และระบบการประสานงานและติดต่อสำนักงานรวมทั้งช่องทางที่หน่วยงานภายนอกเข้ามาเสนอหรือชี้แจง",
+    "demo": "https://drive.google.com/file/d/1RBW56JkaqpFuujhkKm_HD0QIi45r3_gR/view?resourcekey"
+  },
+  {
+    "id": 33,
+    "name": "SmartBudgy",
+    "type": "OPEN Budget",
+    "idea": "SmartBudgy ซึ่งมาจากคำว่า Smart Budget - การพัฒนาแพลตฟอร์มเว็ปแอปพลิเคชันร่วมกับเทคโนโลยี AI ที่สามารถวิเคราะห์ฐานข้อมูลงบประมาณจากรัฐสภาได้ โดยใช้ระบบ RAG และมีการใช้ AI Chatbot ตอบคำถามและข้อสงสัยของประชาชนที่เกี่ยวข้องกับการใช้งบประมาณของรัฐ ที่สำคัญคือมีการใช้เทคนิค Multi-Agent เพื่อการคัดกรองคำตอบที่มีประสิทธิภาพ"
+  },
+  {
+    "id": 34,
+    "name": "PBK",
+    "type": "OPEN Budget"
+  },
+  {
+    "id": 35,
+    "name": "JNPP",
+    "type": "OPEN Parliament Performance",
+    "idea": "เปรียบเทียบประสิทธิภาพคณะกรรมาธิการ ระหว่างยุคก่อนประยุทธ์ / ยุคประยุทธ์ / หลังประยุทธ์"
+  },
+  {
+    "id": 36,
+    "name": "Geeks",
+    "type": "OPEN Legislative",
+    "idea": "ระบบติดตามและวิเคราะห์ผลกระทบนโยบายรัฐบาล หรือกฎหมายของสภา (Government Policy Tracking and Impact Analysis System) แนวคิดหลัก คือ ระบบนี้จะเป็นแพลตฟอร์มที่ช่วยในการติดตามและวิเคราะห์นโยบายของรัฐบาล หรือกฎหมายของสภา เพื่อประเมินผลกระทบที่นโยบายต่าง ๆ มีต่อภาคส่วนต่าง ๆ ของสังคม เศรษฐกิจ และสิ่งแวดล้อม รวมทั้งการประเมินความคืบหน้าและประสิทธิภาพของการดำเนินนโยบาย"
+  },
+  {
+    "id": 37,
+    "name": "Open DO",
+    "type": "OPEN Budget",
+    "idea": "Open Budget for all ใช้การ Visualization งบประมาณประเทศ ในแต่ละระดับ และการวัดผลของโครงการ"
+  },
+  {
+    "id": 38,
+    "name": "Delta",
+    "type": "OPEN Budget",
+    "idea": "การสร้างแพลตฟอร์มในการดูงบประมาณของแต่ละกระทรวงและในแต่ละกระทรวงเอางบไปทำอะไรบ้างในแต่ละโครงการของกระทรวง และ ประชาชนภายนอกสามารถโหวตได้หรือออกความคิดเห็นได้ว่าโครงการนี้งบที่เหมาะสมมั้ย"
+  },
+  {
+    "id": 39,
+    "name": "กิโยติน",
+    "type": "OPEN Legislative",
+    "idea": "กิโยตินกฎหมาย ด้วย ปัญญาประดิษฐ์ เพื่ออำนวยความสะดวกและแม่นยำกว่าการใช้คนเป็นจำนวนมากในการพิจารณาและกลั่นกรองกฎหมายเก่า กฎหมายตายแล้ว กฎหมายที่ล้าสมัย กฎหมายที่ซ้ำซ้อน กฎหมายที่ขัดกันระหว่างกฎหมายอื่นและกฎหมายแม่ นี่คือภาพรวมในการจัดการและการนำเสนอ ด้วยการใช้ AI เป็นตัวจัดการ แทนกำลังคนเป็นจำนวนมาก นี่คือนวัตกรรมที่สามารถเอื้อประโยชน์ต่อกระบวนการนิติบัญญัติ ที่แรกในโลก จากในอดีตที่ใช้กำลังคนและเวลากับค่าใช้จ่ายเป็นจำนวนมาก"
+  },
+  {
+    "id": 40,
+    "name": "OpenStamp",
+    "type": "OPEN Parliament Performance",
+    "idea": "Use OCR to detect who talks during the meeting and generate texts from the meeting through STT. Then put them into LLM in order to summarize the content in each section. The solution aims to create seemless experience for the users watching parliament meetings.",
+    "demo": "https://www.youtube.com/watch?v=xRBONgS-R9k&ab_channel=ThanapatTeerarattanyu"
+  },
+  {
+    "id": 41,
+    "name": "Law",
+    "type": "OPEN Legislative",
+    "idea": "เอากฎหมายขึ้น git ให้หมด จะได้ดูฉบับปัจจุบันและที่มีการแก้ไขปรับปรุงได้ง่าย",
+    "demo": "https://www.canva.com/design/DAGNGQqnbf8/H9imeumTJAHx6GxrpJfs2A/view?utm_content=DAGNGQqnbf8"
+  },
+  {
+    "id": 42,
+    "name": "Supernova",
+    "type": "OPEN Legislative",
+    "idea": "Tracking Perf. Searchตามใจ เป็นระบบการติดตามผลของโครงการที่มีอยู่ในปีนั้นๆให้ประชาชนสามารถตรวจสอบและเข้าถึงได้ง่าย",
+    "demo": "https://www.figma.com/proto/b51Ds2FBjx7AaVmNLrUx0B/Tracking-Perf.?node-id=8-53&t=Mfs3DteKFRqjLlvG-1"
+  },
+  {
+    "id": 43,
+    "name": "Lo Pro",
+    "type": "OPEN Procurement",
+    "idea": "แพลตฟอร์มกลางในการเสนอโครงการเบิกจ่ายและจัดซื้อจัดจ้างโครงการ โดยมุ่งเน้นให้โครงการที่เกิดขึ้นแสดงเป็นสาธารณะต่อประชาชน (โดยเฉพาะคนในท้องถิ่นที่จัดโครงการ) เพื่อให้ SME ในท้องถิ่นได้มีโอกาสเสนอไอเดีย/งานที่จะเกิดขึ้น และประชาชนได้เห็นโครงการใกล้ตัว ได้ตรวจสอบ (เช่น โครงการเกิดขึ้นแต่ไม่เห็นผลจริง เป็นต้น) และเสนอแนะสิ่งที่จะเกิดขึ้น",
+    "demo": "https://parliamenthack.bsthun.com/"
+  },
+  {
+    "id": 44,
+    "name": "T-LawGPT",
+    "type": "OPEN Legislative",
+    "idea": "โครงการ T-LawGPT มีเป้าหมายในการสร้างเครื่องมือดิจิทัลที่ช่วยอำนวยความสะดวกในกระบวนการนิติบัญญัติ และการพิจารณากฎหมาย โดยใช้เทคโนโลยี LLM ในการประมวลผล และจัดการข้อมูลใน Data Warehouse โครงการนี้จะรวบรวมและวิเคราะห์ข้อมูลกฎหมายจากทุกระดับ ตั้งแต่รัฐธรรมนูญ แพ่ง อาญา กฎกระทรวง จนถึงประกาศต่างๆ เพื่อให้ผู้ใช้สามารถค้นหาและอ้างอิงกฎหมายที่เกี่ยวข้องได้อย่างรวดเร็วและแม่นยำ",
+    "demo": "https://t-lawgpt.github.io/T-LawGPT-frontend/"
+  },
+  {
+    "id": 45,
+    "name": "Noppo",
+    "type": "OPEN Parliament Performance",
+    "idea": "Speech recognition ในการ detect และ summarize ของ สส. แต่ละคนที่ขึ้นมาอภิปรายหรือชี้แจงในการประชุมของวาระต่างๆ พร้อมบอกว่า สส. คนนั้นมี directior ยังไง"
+  },
+  {
+    "id": 46,
+    "name": "อะไร",
+    "type": "OPEN Parliament Performance",
+    "idea": "Visualize การประชุม การมีส่วนร่วม และความคิดเห็นของ สส และภาระงานของสมาชิก",
+    "demo": "https://www.figma.com/proto/FGiYaAKNcph8nFBkEnGfMp/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%84%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B5?node-id=3-4&t=bLffZJM0g000wmqZ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A4"
+  },
+  {
+    "id": 47,
+    "name": "OpenSaPha",
+    "type": "OPEN Parliament Performance",
+    "idea": "NongPha (น้องภา) - เป้าหมายของเราคือทำให้ประชาชนเข้าใจและรับรู้ข่าวสารจากในห้องสภาได้ง่ายขึ้น โดยการทำสรุปประชุมรัฐสภาให้อยู่ในรูปของ mind map ที่กระชับและเข้าใจง่าย นอกจากนี้ยังสามารถสอบถามข้อมูลที่เกี่ยวข้องผ่าน AI ได้อีกด้วย",
+    "demo": " https://nongpha.podsawee.com"
+  },
+  {
+    "id": 48,
+    "name": "Parliament AI",
+    "type": "OPEN Parliament Performance",
+    "demo": "https://shorturl.at/LQATB"
+  },
+  {
+    "id": 49,
+    "name": "!_A_ไปไปไปนุ่ม",
+    "type": "OPEN Budget",
+    "idea": "เอ๊ะ แปลกๆนะ - วิเคราะห์ข้อมูลทางด้านงบประมาณ กฏหมาย และการทำงานของสมาชิกรัฐสภา นำมาวิเคราะห์ว่ามีการเปลี่ยนแปลงหรือไม่โปร่งใสอย่างใด โดยใช้ time series มาคาดการณ์ผลในอนาคตและ LLM และ RAG มาวิเคราะห์การเพื่อแสดงผลเป็น dashboard",
+    "demo": "https://pakornds.github.io/parliament-hackathon-visualization/"
+  },
+  {
+    "id": 50,
+    "name": "one man one file",
+    "type": "OPEN Parliament Performance"
+  },
+  {
+    "id": 51,
+    "name": "Winit pt",
+    "type": "OPEN Parliament Performance"
+  }
+]

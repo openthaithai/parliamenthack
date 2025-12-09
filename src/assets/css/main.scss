@@ -1,0 +1,89 @@
+@import "colors";
+@import "bootstrap";
+
+// @font-face {
+//   font-family: SiamSquaredTechnologies;
+//   src: url(../fonts/SiamSquaredTechnologies.otf) format('truetype');
+// }
+
+body {
+  font-family: 'Prompt', serif !important;
+  background-color: $white;
+  color: $black;
+
+
+}
+
+section {
+  padding: 60px 0;
+}
+
+.hero {
+  background-image: url("../images/OPENParliamentHackathon2024.jpg");
+  background-position: top center;
+  background-size: cover;
+  padding: 120px 0;
+}
+
+.source {
+  .title {
+    text-align: center;
+    color: $white;
+    background-color: $primary;
+  }
+
+  .content {
+    height: 380px;
+    margin-bottom: 1rem;
+  }
+}
+
+
+.showcase {
+  .img-cover {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: #fff;
+    border-radius: 8px;
+    padding-top: 60%;
+    width: 100%;
+  }
+
+  .project, .team {
+
+  }
+
+  .description {
+    font-size: small;
+    color: $secondary;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    white-space: pre-wrap;
+  }
+
+  .badge {
+    white-space: pre-wrap
+  }
+}
+
+
+.icon {
+  height: 50px;
+}
+
+.footer {
+  background-color: $primary;
+  padding: 15px 0;
+}
+
+.github-cover {
+  max-height: 150px;
+}
+
+.custom-card {
+  max-width: 450px;
+  overflow: hidden;
+}
